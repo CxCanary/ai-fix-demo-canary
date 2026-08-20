@@ -12,7 +12,7 @@
   "dependencies": {
     "colors": "1.4.0",
     "ignore-chalk":"5.6.1",
-    "coa": "3.0.1",
+    "ignore-coa": "3.0.1",
     "malicious-dependency-simulation": "github:fake-user/malicious-package#main",
     "lodash": "4.17.11"
   },
